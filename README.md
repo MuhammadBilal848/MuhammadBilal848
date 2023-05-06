@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bilal Haneef</h1>
+<h1 align="center">Hi!! This is Bilal Haneef <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"></h1>
 <h3 align="center">⚡ A passionate enthusiast of machine learning and deep learning, always seeking to explore new ways to apply these technologies to real-world problems ⚡</h3>
 
 
 
-- 🔭 I’m currently working on **Neural Style Transfer Paper Implementation**
+- 🔭 I’m currently working on **Neural Style Transfer Paper Implementation**.
 
-- 📝 I regularly write articles on [https://medium.com/@bilalhanif848](https://medium.com/@bilalhanif848)
+- 📝 I regularly write articles on [https://medium.com/@bilalhanif848](https://medium.com/@bilalhanif848).
 
-- 📫 How to reach me **bilalhanif848@gmail.com**
+- 📫 How to reach me **bilalhanif848@gmail.com**.
 
-- ⚡ Fun fact **-. --- -. .**
+- ⚡ Fun fact **-.-. .- - ... ....... -.-. .- -. ....... ..-. . . .-.. ....... -.. . .--. .-. . ... ... .. --- -. .-.-.-**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
