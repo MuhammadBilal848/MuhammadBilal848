@@ -3,10 +3,10 @@
 <div style="display: flex; align-items: center;">
   <img align = "right" src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/using%20comp%201.gif" alt="Description of the image" width="350px">
   <p>
-    ☉ 🔭 I’m currently working on <strong>Neural Style Transfer Paper Implementation</strong>.<br><br>
-    ☉ 📝 I regularly write articles on <a href="https://medium.com/@bilalhanif848">https://medium.com/@bilalhanif848</a>.<br><br>
-    ☉ 📫 How to reach me <strong>bilalhanif848@gmail.com</strong>.<br><br>
-    ☉ ⚡ Fun fact <strong>-.-. .- - ... ....... -.-. .- -. ....... ..-. . . .-.. ....... -.. . .--. .-. . ... ... .. --- -. .-.-.-</strong>.
+   <h1> ☉ 🔭 I’m currently working on <strong>Neural Style Transfer Paper Implementation</strong>.<br><br> </h1>
+   <h1> ☉ 📝 I regularly write articles on <a href="https://medium.com/@bilalhanif848">https://medium.com/@bilalhanif848</a>.<br><br> </h1>
+   <h1> ☉ 📫 How to reach me <strong>bilalhanif848@gmail.com</strong>.<br><br> </h1>
+   <h1> ☉ ⚡ Fun fact <strong>-.-. .- - ... ....... -.-. .- -. ....... ..-. . . .-.. ....... -.. . .--. .-. . ... ... .. --- -. .-.-.-</strong>. </h1>
   </p>
 </div>
 
