@@ -49,6 +49,10 @@
 <!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
   </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://scrapy.org/" target="_blank" rel="noreferrer"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/></a>
+<a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/langchain.svg" alt="Language chain" width="60" height="60"/>
+</a>
+
 
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbilal848&show_icons=true&locale=en" alt="muhammadbilal848" /></p>
