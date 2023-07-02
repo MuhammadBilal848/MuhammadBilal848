@@ -25,36 +25,74 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/></a>
-<a href="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" alt="Scikit-learn" width="60" height="60"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" alt="Scikit-learn" width="60" height="60"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/azure.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/aws.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/flask.svg" alt="flask" width="70" height="55"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+    <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/>
+  </a>
+  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/langchain.svg" alt="Language chain" width="60" height="60"/>
+  </a>
+<a href="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/scrapy.png" target="_blank" rel="noreferrer">
+  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/scrapy.png" alt="Scrapy" width="60" height="60">
 </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/azure.svg" alt="azure" width="40" height="40"/>
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/aws.svg" alt="aws" width="40" height="40"/>
-</a>
-</a>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/flask.svg" alt="flask" width="70" height="55"/>
-</a>
-<!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
-  </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://scrapy.org/" target="_blank" rel="noreferrer"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/></a>
-<a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/langchain.svg" alt="Language chain" width="60" height="60"/>
-</a>
+</p>
 
+
+<!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
+<!-- <a href="https://scrapy.org/" target="_blank" rel="noreferrer"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/></a> -->
 
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbilal848&show_icons=true&locale=en" alt="muhammadbilal848" /></p>
