@@ -26,7 +26,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" alt="scikit-learn" width="60" height="40"/></a>
+<a href="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" target="_blank" rel="noreferrer">
+  <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" alt="Scikit-learn" width="60" height="60"/>
+</a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/></a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="80" height="40"/></a>
