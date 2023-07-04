@@ -27,11 +27,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/numpy.svg" alt="Pandas" width="40" height="40"/>
+  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" target="_blank" rel="noreferrer">
     <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/sklearn.svg" alt="Scikit-learn" width="60" height="60"/>
+  </a>
+      <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/nltk.svg" alt="Pandas" width="70" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
