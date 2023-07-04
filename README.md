@@ -79,9 +79,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-    <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/>
-  </a>
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/langchain.svg" alt="Language chain" width="60" height="60"/>
   </a>
