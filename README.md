@@ -21,6 +21,8 @@
 <a href="https://fb.com/bilalhaneef484/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bilalhaneef484/" height="30" width="40" /></a>
 <a href="https://medium.com/@bilalhanif848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bilalhanif848" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13754963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13754963" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCEiJ1j-nJnYK5ug2nRJjG7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your YouTube Channel" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
