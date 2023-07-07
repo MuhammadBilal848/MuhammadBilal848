@@ -22,7 +22,6 @@
 <a href="https://medium.com/@bilalhanif848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bilalhanif848" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13754963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13754963" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCEiJ1j-nJnYK5ug2nRJjG7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your YouTube Channel" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -97,8 +96,6 @@
 
 
 <!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
-<!-- <a href="https://scrapy.org/" target="_blank" rel="noreferrer"><img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/></a> -->
-
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbilal848&show_icons=true&locale=en" alt="muhammadbilal848" /></p>
 
