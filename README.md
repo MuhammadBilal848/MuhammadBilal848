@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mbhqs)
@@ -33,7 +33,7 @@
   <a href="https://www.youtube.com/channel/UCEiJ1j-nJnYK5ug2nRJjG7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Your YouTube Channel" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <!-- <p align="left">
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/numpy.svg" alt="Pandas" width="40" height="40"/>
@@ -147,7 +147,7 @@
 
 
 <!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
-<h3 align="left">Stats:</h3>
+<h2 align="left">Stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbilal848&show_icons=true&locale=en" alt="muhammadbilal848" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilal848&" alt="muhammadbilal848" /></p>
