@@ -16,13 +16,34 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mbhqs){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/bilal-haneef-32014a1a2/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bilalhaneef484/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/muhammadbilalhaneef)
-[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@bilalhanif848)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/13754963/muhammad-bilal-haneef-qureshi)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEiJ1j-nJnYK5ug2nRJjG7w)
+<a href="https://linkedin.com/in/bilal-haneef-32014a1a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+</a>
+
+<a href="https://www.facebook.com/bilalhaneef484/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge">
+</a>
+
+<a href="https://www.kaggle.com/muhammadbilalhaneef" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge">
+</a>
+
+<a href="https://medium.com/@bilalhanif848" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge">
+</a>
+
+<a href="https://stackoverflow.com/users/13754963/muhammad-bilal-haneef-qureshi" target="_blank">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" alt="Stack Overflow Badge">
+</a>
+
+<a href="https://www.youtube.com/channel/UCEiJ1j-nJnYK5ug2nRJjG7w" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge">
+</a>
+
+<a href="https://twitter.com/mbhqs" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
+</a>
+
 
 <!-- <a href="https://twitter.com/mbhqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbhqs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bilal-haneef-32014a1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-haneef-32014a1a2/" height="30" width="40" /></a>
