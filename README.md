@@ -149,7 +149,7 @@
 
 
 <!--   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> -->
-<h2 align="left">Stats:</h2>
+<h2 align="left">Statistics:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbilal848&show_icons=true&locale=en" alt="muhammadbilal848" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilal848&" alt="muhammadbilal848" /></p>
