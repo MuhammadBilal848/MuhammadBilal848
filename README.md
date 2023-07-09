@@ -98,10 +98,6 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 </a>
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google-colab/google-colab-original.svg" alt="colab" width="40" height="40"/>
-</a>
-
 </p>
 
 
