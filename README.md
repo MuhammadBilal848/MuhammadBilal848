@@ -133,19 +133,18 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)](https://colab.research.google.com/)
-[![Azure](https://img.shields.io/badge/azurecloud-0078D4?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/en-us)
+[![Azure](https://img.shields.io/badge/azure%20cloud-0078D4?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/en-us)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://cloud.google.com)
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com)
-[![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=Power-Virtual-Agents&logoColor=white)](https://powervirtualagents.microsoft.com)
-[![Power Apps](https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white)](https://powerapps.microsoft.com)
-[![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)](https://flow.microsoft.com)
+[![AWS](https://img.shields.io/badge/aws%20cloud-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com)
 [![.ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)](https://dotenv.dev)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)](https://github.com/features/actions)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://pages.github.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org)
-
+[![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=Power-Virtual-Agents&logoColor=white)](https://powervirtualagents.microsoft.com)
+[![Power Apps](https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white)](https://powerapps.microsoft.com)
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)](https://flow.microsoft.com)
 
 
 
