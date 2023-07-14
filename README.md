@@ -139,6 +139,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)](https://github.com/features/actions)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://pages.github.com)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)](https://powerbi.microsoft.com)
+[![Seaborn](https://github.com/MuhammadBilal848/MuhammadBilal848/raw/main/seaborn.svg)](https://seaborn.pydata.org/)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org)
 [![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=Power-Virtual-Agents&logoColor=white)](https://powervirtualagents.microsoft.com)
 [![Power Apps](https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white)](https://powerapps.microsoft.com)
