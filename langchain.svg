@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" id="svg_32" text-anchor="middle" transform="matrix(0.841879 0 0 0.841879 36.4907 33.7788)">SEABORN</g>
+  <rect fill="#d81833" height="28" id="svg_13" transform="matrix(1 0 0 1 0 0) matrix(0.493466 0 0 0.490065 74.6511 62.1466)" width="186.25" x="-151.04" y="-126.62">LANGCHAIN</rect>
+  <text fill="#fcf7f7" font-family="Monospace" font-size="1" font-weight="normal" id="svg_19" lengthAdjust="spacing" stroke-width="0" text-anchor="middle" textLength="0" transform="matrix(11.3797 0 0 6.33488 -994.041 -276.915)" word-spacing="0" x="92.24" xml:space="preserve" y="45.02">LANGCHAIN</text>
+  <text fill="#fcf7f7" font-family="Monospace" font-size="1" id="svg_38" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(5.03984 0 0 6.25968 -182.024 -240.318)" x="38.64" xml:space="preserve" y="39.72">🦜️🔗</text>
+ </g>
+</svg>
