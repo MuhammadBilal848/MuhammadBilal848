@@ -4,7 +4,7 @@
   <img align = "right" src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/using%20comp%201.gif" alt="Description of the image" width="350px">
   
    <h4> ☉ 🔭 I’m currently working on: <strong>Neural Style Transfer Paper Implementation</strong>.<br><br> </h4>
-   <h4> ☉ 📝 I regularly write articles on <a href="https://medium.com/@bilalhanif848">https://medium.com/@bilalhanif848</a>.<br><br> </h4>
+   <h4> ☉ 📝 I regularly write articles on: <a href="https://medium.com/@bilalhanif848">https://medium.com/@bilalhanif848</a>.<br><br> </h4>
    <h4> ☉ 📫 How to reach me <strong>bilalhanif848@gmail.com</strong>.<br><br> </h4>
    <h4> ☉ ⚡ Fun fact <strong>-.-. .- - ... ....... -.-. .- -. ....... ..-. . . .-.. ....... -.. . .--. .-. . ... ... .. --- -. .-.-.-</strong>. <br><br> </h4> 
    <h4> ☉ 🖥 My Website <strong>https://muhammadbilal848.github.io/Portfolio-Website/</strong>.<br><br> </h4> 
