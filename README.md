@@ -55,6 +55,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://pages.github.com)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)](https://powerbi.microsoft.com)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org)
+[![Office](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white)](https://www.office.com/)
 [![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=Power-Virtual-Agents&logoColor=white)](https://powervirtualagents.microsoft.com)
 [![Power Apps](https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white)](https://powerapps.microsoft.com)
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)](https://flow.microsoft.com)
