@@ -8,7 +8,6 @@
    <h4> ☉ 📫 How to reach me: <strong>bilalhanif848@gmail.com</strong>.<br><br> </h4>
    <h4> ☉ ⚡ Fun fact: <strong>-.-. .- - ... ....... -.-. .- -. ....... ..-. . . .-.. ....... -.. . .--. .-. . ... ... .. --- -. .-.-.-</strong>. <br><br> </h4> 
    <h4> ☉ 🖥 My Website: <strong>https://muhammadbilal848.github.io/Portfolio-Website/</strong>.<br><br> </h4> 
-
 </div>
 
 <h2 align="left">Connect with me:</h2>
