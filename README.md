@@ -46,6 +46,7 @@
 [![AWS Cloud](https://img.shields.io/badge/aws%20cloud-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)](https://colab.research.google.com/)
 [![.ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)](https://dotenv.dev)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://docker.com/)
@@ -59,7 +60,6 @@
 [![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-0B556A.svg?style=for-the-badge&logo=Power-Virtual-Agents&logoColor=white)](https://powervirtualagents.microsoft.com)
 [![Power Apps](https://img.shields.io/badge/Power%20Apps-742774.svg?style=for-the-badge&logo=Power-Apps&logoColor=white)](https://powerapps.microsoft.com)
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=Power-Automate&logoColor=white)](https://flow.microsoft.com)
-
 
 <h2 align="left">Statistics:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadbilal848&show_icons=true&locale=en" alt="muhammadbilal848" /></p>
