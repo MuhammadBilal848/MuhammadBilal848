@@ -66,8 +66,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadbilal848&" alt="muhammadbilal848" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadbilal848" alt="muhammadbilal848" /></a> </p>
-
-
 <!-- <p align="left">
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/numpy.svg" alt="Pandas" width="40" height="40"/>
