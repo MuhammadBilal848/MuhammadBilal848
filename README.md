@@ -1,5 +1,5 @@
 <h1 align="center">Hi!!! This is Bilal Haneef <img  src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f63a/512.webp" width="50px"></h1>
-<h3 align="center">⚡ A passionate enthusiast of machine learning and deep learning & computer vision, always seeking to explore new ways to apply these technologies to real-world problems ⚡</h3>
+<h3 align="center">⚡ A passionate enthusiast of deep learning & computer vision, always seeking to explore new ways to apply these technologies to real-world problems ⚡</h3>
 <div style="display: flex; align-items: center;">
   <img align = "right" src="https://github.com/MuhammadBilal848/MuhammadBilal848/blob/main/using%20comp%201.gif" alt="Description of the image" width="350px">
    <h4> ☉ 🔭 I’m currently working on: <strong>Computer Vision Research</strong>.<br><br> </h4>
